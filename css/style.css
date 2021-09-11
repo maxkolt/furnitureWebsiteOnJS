@@ -647,3 +647,45 @@ body {
 		top: 180%;
 	}
 }
+
+/* forms */
+.state {
+	text-align: center;
+	color: #8f15e0;
+}
+
+.auth {
+	width: 260px;
+	padding: 20px;
+	margin: 20px auto;
+	background-color: #fff;
+	display: block;
+}
+
+/* Input */
+
+.form-group {
+	margin-bottom: 15px;
+}
+
+.input {
+	display: block;
+	padding: 8px 10px;
+	width: 238px;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	font-family: inherit;
+	font-size: 15px;
+}
+/* Btn */
+
+.btn {
+	display: block;
+	width: 260px;
+	padding: 10px;
+	border: 0;
+	background-color: #8f15e0;
+	font-family: inherit;
+	font-size: 15px;
+	color: #fff;
+}
