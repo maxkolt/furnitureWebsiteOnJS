@@ -655,7 +655,7 @@ body {
 	font-size: 50px;
 }
 
-.auth {
+.auth-form {
 	width: 260px;
 	padding: 20px;
 	margin: 20px auto;
@@ -669,7 +669,7 @@ body {
 	margin-bottom: 15px;
 }
 
-.input {
+.input-form {
 	display: block;
 	padding: 8px 10px;
 	width: 238px;
@@ -680,7 +680,7 @@ body {
 }
 /* Btn */
 
-.btn {
+.btn-form {
 	display: block;
 	width: 260px;
 	padding: 10px;
