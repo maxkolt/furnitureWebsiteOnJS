@@ -1,4 +1,4 @@
-##  Сайт мебели 
-***Задача научться кодить на JS***
+## Магазин мебели 
+#### Ванильный JS без фреймворков
 
-![Alt-текст]( "Орк")
+![Alt-текст](https://github.com/maxkolt/furnitureWebsiteOnJS/blob/master/assets/img/main.png?raw=true "Орк")
