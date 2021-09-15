@@ -1,0 +1,11 @@
+.logo {
+    width: 15%;
+    display: flex;
+    align-items: center;
+}
+
+.logotype {
+    background-color: #8f15e0;
+    max-width: 100px;
+    margin-left: 50%;
+}
