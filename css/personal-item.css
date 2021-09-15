@@ -1,0 +1,31 @@
+.personal-item {
+    width: 15%;
+}
+
+.auth {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.auth-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #6f6f6f;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    transition: .3s;
+}
+
+.auth-link i {
+    padding: 0 5px;
+    font-size: 20px;
+    color: #8f15e0;
+}
+
+.auth-link:hover {
+    color: #8f15e0;
+}
